@@ -1,0 +1,4 @@
+For space: &nbsp; ----(non breaking space)
+fontawesome.com ----- (used for icons)
+<br> ------ (break tag)[instead of using break tag in line to line ] we can use 
+<pre></pre>

@@ -1,0 +1,63 @@
+List:
+============
+
+Ordered List  1,2,3
+Unordered List ......
+
+Misleanous list [combo]
+=========
+common for all is list
+List- default unorderd list
+<ul></ul> ------- (Unordered List tag)
+<ol></ol> ------- (Ordered List tag)
+
+ Offline- in my system -----
+I want this online ===============
+Host a website:
+How to host:
+godaddy.com
+hostgator.com
+
+Name we have to purchase -->
+
+
+available: www.parveenschool.in
+parveenschool.in
+₹ 149.00
+for the first year with a 2 year registration
+u will get name only =============
+Projects files u have to keep in Hosting- we will keep files
+========================================
+training
+learn free:
+----------------------------
+can i host website from my system?
+1. i need continues power supply
+2. i need continues internet supply [no breakdown] (its not possible)
+3. i need public ip address [u have to purchase from isp]
+4. u need to install server softwares [apche, glass fish,.... etc]
+5. in that server keep all html files
+=========================================
+1. free service      infinityfree (website)-------    parveenschool.infinityfreeapp.com - for free        
+    domain--> ip address
+hosting--> system GB,RAM -> ip address
+2. git hub
+3. heroku
+4. aws
+
+
+
+http://www.youtube.com/watch?v=uB9EiRQoqzY --------- 07-01-2020
+
+
+
+
+
+
+
+
+
+
+
+
+
